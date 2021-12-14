@@ -7,4 +7,8 @@ class Estudiante {
         this.edad = edad
     }
 
+    leer(libro) {
+        console.log("Estoy leyendo el libro",libro)
+    }
+
 }
