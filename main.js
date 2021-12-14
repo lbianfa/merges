@@ -10,5 +10,9 @@ class Estudiante {
     leer(libro) {
         console.log("Estoy leyendo el libro",libro)
     }
+    
+    saludar() {
+        console.log("Hola mundo")
+    }
 
 }
