@@ -8,7 +8,7 @@ class Estudiante {
     }
 
     saludar() {
-
+        console.log("Hola mundo")
     }
 
     leer(libro) {
