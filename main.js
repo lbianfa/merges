@@ -7,4 +7,8 @@ class Estudiante {
         this.edad = edad
     }
 
+    saludar() {
+        console.log("Hola mundo")
+    }
+
 }
